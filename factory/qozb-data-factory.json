@@ -1,0 +1,9 @@
+{
+	"name": "qozb-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f22d6f24-8233-4e95-8d62-62b5b1337302",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
